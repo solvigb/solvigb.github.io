@@ -72,10 +72,10 @@ header{
 	
 	grid-area:content;
 	grid-template-areas:
-				"article"
+		"article article"
 		"aside1 aside2";
 	
-	grid-template-columns:2fr 1fr / span 3 1fr;
+	grid-template-columns:2fr 1fr / span 4 1fr;
 	padding:auto;
 	
 }
